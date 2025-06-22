@@ -50,6 +50,7 @@ I'm a **Computer Science Engineering** student at **MNNIT Allahabad** with a pas
 A full-stack legal aid platform that connects individuals with free or affordable legal resources, streamlines case documentation, and provides real-time claim tracking.
 
 **Key Features:**
+- 📱 Cross-platform mobile application built using Flutter
 - 📚 Access to categorized legal information and FAQs
 - 💬 legal guidance via trained LLMs and NGO suggestions
 - 📝 Form-based documentation and claim generation with detailed analysis
