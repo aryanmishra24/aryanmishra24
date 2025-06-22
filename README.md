@@ -44,6 +44,23 @@ I'm a **Computer Science Engineering** student at **MNNIT Allahabad** with a pas
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 🌟 Featured Projects
+### ⚖️ [EmpowerLex](https://empowerlex-web.vercel.app/)
+**100+ Daily Visits | Legal Aid for All**
+
+A full-stack legal aid platform that connects individuals with free or affordable legal resources, streamlines case documentation, and provides real-time claim tracking.
+
+**Key Features:**
+- 📚 Access to categorized legal information and FAQs
+- 💬 legal guidance via trained LLMs and NGO suggestions
+- 📝 Form-based documentation and claim generation with detailed analysis
+- ⚙️ Backend claim processing with status tracking and notifications
+
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `Vercel` `Render`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://empowerlex-web.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanmishra24/EmpowerLex)
+
+---
 
 ### 🤖 [AI Journaling Assistant](https://ai-journal-assistant.onrender.com/)
 **50+ Active Users | 90%+ Context Accuracy**
