@@ -77,7 +77,7 @@ A full-stack AI-powered journaling platform that provides personalized insights 
 
 **Tech Stack:** `FastAPI` `React` `PostgreSQL` `Gemini API` `Docker` `JWT` `LangChain`
 
-[![View Project](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://ai-journal-assistant.onrender.com/](https://ai-journal-assistant.vercel.app/)
+[![View Project](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://ai-journal-assistant.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanmishra24/Ai_journal_assistant)
 
 ---
